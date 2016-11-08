@@ -1,6 +1,7 @@
 //
 //  CSV
 //  Modified by Mark Price on 08/14/15
+//  Updated by Aleksandrs Poltarjonoks aka Codenator <codenator81@gmail.com> 
 //
 import Foundation
 
